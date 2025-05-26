@@ -25,5 +25,3 @@ Tic-tac-toe game , first project in course
 ```bash
   python tic-tac-toe.py
 ```
-
-[Base link](https://github.com/EdusonPython/Python-Projects/blob/tic-tac-toe_solution/tic-tac-toe.py)
